@@ -280,6 +280,17 @@ footer {
         width: 95%;
         font-size: 20px;
     }
+    .checkbox-itens label {
+        font-size: 17px;
+    }
     
+    /* Footer */
 
+    footer .linha1 {
+        flex-direction: column;
+    }
+
+    footer .endereco {
+        width: 95%;
+    }
 }
